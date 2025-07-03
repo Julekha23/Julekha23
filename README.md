@@ -17,7 +17,7 @@
 
 ## Github Status:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julekha23&show_icons=true&locale=en&layout=compact" alt="julekha23" /></p>
+<p><img align="left" src="https://github-readme-status.vercel.app/api/top-langs?username=julekha23&show_icons=true&locale=en&layout=compact" alt="julekha23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julekha23&show_icons=true&locale=en" alt="julekha23" /></p>
 
