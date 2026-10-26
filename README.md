@@ -29,6 +29,17 @@
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julekhamolla2005@gmail.com)
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Julekha23&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julekha23&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 
 ## 💻 Tech Stack
 
