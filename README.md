@@ -37,6 +37,7 @@
 </p>
 
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -44,5 +45,20 @@
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julekha23&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+## ⚡ Top Technologies
+
+```text
+Backend     ████████████████████   Go, Node.js
+Database    ████████████████████   PostgreSQL, MongoDB, MySQL
+Frontend    ████████████████       React, JavaScript
+DevOps      ██████████████         Docker
+```
+
+### 🚀 Featured Projects
+
+- 🔗 URL Shortener (Go + PostgreSQL)
+- 🛒 E-Commerce API (Node.js + MongoDB)
+- ✈️ Flight Booking System (Django)
+- 🐳 Dockerized Full Stack Applications
 
 
