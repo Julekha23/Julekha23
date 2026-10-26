@@ -20,7 +20,6 @@
 - 🗄️ PostgreSQL & MongoDB
 - 🌱 Currently learning System Design & Cloud
 
----
 
 ## 🌐 Socials
 
@@ -28,8 +27,7 @@
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julekhamolla2005@gmail.com)
 
----
----
+
 
 
 ## 💻 Tech Stack
@@ -38,9 +36,6 @@
   <img src="https://skillicons.dev/icons?i=go,react,nodejs,postgres,mongodb,docker,javascript,html,css,python,java,git,github,vscode" />
 </p>
 
----
-
----
 
 ## 📊 GitHub Stats
 
