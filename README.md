@@ -48,15 +48,15 @@
 ## ⚡ Top Technologies
 
 ```text
-Backend     ████████████████████   Go, Node.js
+Backend     ████████████████████   Go, Node.js,Django
 Database    ████████████████████   PostgreSQL, MongoDB, MySQL
-Frontend    ████████████████       React, JavaScript
+Frontend    ████████████████       React, JavaScript , Css , Html
 DevOps      ██████████████         Docker
 ```
 
 ### 🚀 Featured Projects
 
-- 🔗 URL Shortener (Go + PostgreSQL)
+- 🎞️ Cinema Booking System (Go + PostgreSQL)
 - 🛒 E-Commerce API (Node.js + MongoDB)
 - ✈️ Flight Booking System (Django)
 - 🐳 Dockerized Full Stack Applications
